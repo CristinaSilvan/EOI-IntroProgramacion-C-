@@ -1,0 +1,14 @@
+C:\2-CSharpEOI\Ejercicios de Clase\MySecondDotNetApp\bin\Debug\netcoreapp3.1\MySecondDotNetApp.exe
+C:\2-CSharpEOI\Ejercicios de Clase\MySecondDotNetApp\bin\Debug\netcoreapp3.1\MySecondDotNetApp.deps.json
+C:\2-CSharpEOI\Ejercicios de Clase\MySecondDotNetApp\bin\Debug\netcoreapp3.1\MySecondDotNetApp.runtimeconfig.json
+C:\2-CSharpEOI\Ejercicios de Clase\MySecondDotNetApp\bin\Debug\netcoreapp3.1\MySecondDotNetApp.runtimeconfig.dev.json
+C:\2-CSharpEOI\Ejercicios de Clase\MySecondDotNetApp\bin\Debug\netcoreapp3.1\MySecondDotNetApp.dll
+C:\2-CSharpEOI\Ejercicios de Clase\MySecondDotNetApp\bin\Debug\netcoreapp3.1\MySecondDotNetApp.pdb
+C:\2-CSharpEOI\Ejercicios de Clase\MySecondDotNetApp\obj\Debug\netcoreapp3.1\MySecondDotNetApp.csproj.AssemblyReference.cache
+C:\2-CSharpEOI\Ejercicios de Clase\MySecondDotNetApp\obj\Debug\netcoreapp3.1\MySecondDotNetApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\2-CSharpEOI\Ejercicios de Clase\MySecondDotNetApp\obj\Debug\netcoreapp3.1\MySecondDotNetApp.AssemblyInfoInputs.cache
+C:\2-CSharpEOI\Ejercicios de Clase\MySecondDotNetApp\obj\Debug\netcoreapp3.1\MySecondDotNetApp.AssemblyInfo.cs
+C:\2-CSharpEOI\Ejercicios de Clase\MySecondDotNetApp\obj\Debug\netcoreapp3.1\MySecondDotNetApp.csproj.CoreCompileInputs.cache
+C:\2-CSharpEOI\Ejercicios de Clase\MySecondDotNetApp\obj\Debug\netcoreapp3.1\MySecondDotNetApp.dll
+C:\2-CSharpEOI\Ejercicios de Clase\MySecondDotNetApp\obj\Debug\netcoreapp3.1\MySecondDotNetApp.pdb
+C:\2-CSharpEOI\Ejercicios de Clase\MySecondDotNetApp\obj\Debug\netcoreapp3.1\MySecondDotNetApp.genruntimeconfig.cache

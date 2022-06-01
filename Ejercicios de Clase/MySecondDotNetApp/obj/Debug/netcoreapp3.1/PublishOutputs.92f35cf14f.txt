@@ -1,0 +1,5 @@
+C:\2-CSharpEOI\Ejercicios de Clase\MySecondDotNetApp\bin\Debug\netcoreapp3.1\publish\MySecondDotNetApp.exe
+C:\2-CSharpEOI\Ejercicios de Clase\MySecondDotNetApp\bin\Debug\netcoreapp3.1\publish\MySecondDotNetApp.dll
+C:\2-CSharpEOI\Ejercicios de Clase\MySecondDotNetApp\bin\Debug\netcoreapp3.1\publish\MySecondDotNetApp.deps.json
+C:\2-CSharpEOI\Ejercicios de Clase\MySecondDotNetApp\bin\Debug\netcoreapp3.1\publish\MySecondDotNetApp.runtimeconfig.json
+C:\2-CSharpEOI\Ejercicios de Clase\MySecondDotNetApp\bin\Debug\netcoreapp3.1\publish\MySecondDotNetApp.pdb

@@ -1,0 +1,5 @@
+C:\2-CSharpEOI\Ejercicios de Clase\MyFirstDotNetApp\bin\Debug\net6.0\publish\MyFirstDotNetApp.exe
+C:\2-CSharpEOI\Ejercicios de Clase\MyFirstDotNetApp\bin\Debug\net6.0\publish\MyFirstDotNetApp.dll
+C:\2-CSharpEOI\Ejercicios de Clase\MyFirstDotNetApp\bin\Debug\net6.0\publish\MyFirstDotNetApp.deps.json
+C:\2-CSharpEOI\Ejercicios de Clase\MyFirstDotNetApp\bin\Debug\net6.0\publish\MyFirstDotNetApp.runtimeconfig.json
+C:\2-CSharpEOI\Ejercicios de Clase\MyFirstDotNetApp\bin\Debug\net6.0\publish\MyFirstDotNetApp.pdb
